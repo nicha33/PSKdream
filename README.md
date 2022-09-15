@@ -23,6 +23,8 @@ GitHub Profile README Generator : https://rahuldkjain.github.io/gh-profile-readm
 
 - 📫 How to reach me **p.samothai@outlook.com**
 
+- 📄 Know about my experiences [https://resume-pskdream.vercel.app/](https://resume-pskdream.vercel.app/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pongsakorn samothai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pongsakorn samothai" height="30" width="40" /></a>
